@@ -2,5 +2,5 @@
 
 Autors:
 
-Jan Perales Freniche
-Pablo Fernandez Huaman
+        Jan Perales Freniche
+        Pablo Fernandez Huaman
